@@ -1,4 +1,4 @@
-# 25.-hbfi1.scuetze
+# 25.-hbfi1.schütze
 
 cool 
 
