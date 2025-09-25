@@ -1,5 +1,5 @@
 # 25.-hbfi1.schütze
-<!docktype html>
+<!DOCTYPE HTML>
 <html>
   <Head> 
   <titlle>  der ben </titlle>
